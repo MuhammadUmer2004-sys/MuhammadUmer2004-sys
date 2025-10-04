@@ -10,6 +10,20 @@
 - 📫 How to reach me **mu249271@gmail.com**
 
 ---
+---
+
+## 🤝 Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-umer-40097531a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_umer_muhammad/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:mu249271@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ## 💻 Tech Stack:
 <p align="center">
