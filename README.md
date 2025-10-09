@@ -67,6 +67,46 @@
   <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 
+  ---
+
+## 📊 My Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadumer2004-sys&theme=github_dark" alt="Muhammad Umer GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadumer2004-sys&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumer2004-sys&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumer2004-sys&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=muhammadumer2004-sys&theme=github-dark" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadumer2004-sys&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📈 GitHub Grade Card
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadumer2004-sys&theme=github_dark" alt="GitHub Stats Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadumer2004-sys&theme=github_dark&utcOffset=5" alt="Productive Time"/>
+</p>
+
+---
+
 </p>
 
 ---
