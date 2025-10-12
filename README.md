@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadumer2004-sys&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadumer2004-sys" />
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadumer2004-sys&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadumer2004-sys" /> </p>
 
 - 🔭 I’m currently exploring **Data Science, Artificial Intelligence, & Web-Development**
