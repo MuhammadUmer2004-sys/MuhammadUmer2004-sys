@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadumer2004-sys&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadumer2004-sys" /> </p>
-  🚀 About Me
+
+🚀 About Me
 
 💻 I specialize in React.js, Next.js, and Node.js
 🧠 Experienced with React Native, Docker, and PostgreSQL
 💬 Ask me about frontend/backend architecture, APIs, or scalable full-stack solutions
 🎯 Goal: To build impactful digital products that make life easier
 
-- 🔭 I’m currently exploring **Data Science, Artificial Intelligence, & Web-Development**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 💬 Ask me about **anything you want :)**
-
-- 📫 How to reach me **mu249271@gmail.com**
+🔭 I’m currently exploring Data Science, Artificial Intelligence, and Web Development
+👯 I’m looking to collaborate on Open Source Projects
+💬 Ask me about anything you want :)
+📫 How to reach me: mu249271@gmail.com
 
 ---
 
