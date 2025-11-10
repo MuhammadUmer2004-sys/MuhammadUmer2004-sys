@@ -4,21 +4,14 @@
 
 🚀 About Me
 
-💻 I specialize in React.js, Next.js, and Node.js
-
-🧠 Experienced with React Native, Docker, and PostgreSQL
-
-💬 Ask me about frontend/backend architecture, APIs, or scalable full-stack solutions
-
-🎯 Goal: To build impactful digital products that make life easier
-
-🔭 I’m currently exploring Data Science, Artificial Intelligence, and Web Development
-
-👯 I’m looking to collaborate on Open Source Projects
-
-💬 Ask me about anything you want :)
-
-📫 How to reach me: mu249271@gmail.com
+- 💻 I specialize in React.js, Next.js, and Node.js
+- 🧠 Experienced with React Native, Docker, and PostgreSQL
+- 💬 Ask me about frontend/backend architecture, APIs, or scalable full-stack solutions
+- 🎯 Goal: To build impactful digital products that make life easier
+- 🔭 I’m currently exploring Data Science, Artificial Intelligence, and Web Development
+- 👯 I’m looking to collaborate on Open Source Projects
+- 💬 Ask me about anything you want :)
+- 📫 How to reach me: mu249271@gmail.com
 
 ---
 
